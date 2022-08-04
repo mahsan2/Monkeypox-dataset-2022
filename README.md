@@ -1,5 +1,7 @@
 # Monkeypox-dataset-2022
 
+<h1>The dataset is collected from google as a free source. However, it should not be used for commercial purposes as we do not hold any rights. There is a higher chance that some of that data is not related to the recent outbreak of monkeypox or chickenpox disease. The dataset was not collected from any authentic hospital or real-world patients. Therefore, the machine learning model developed from this dataset should not be used to evaluate any clinical diagnosis. Also, the dataset is not approved by any ethical committee. Therefore, it should not be used for any real-world applications</h1>
+
 During the Onset of Monkeypox disease our aim is to develop a image-based dataset that will assist to develop Artificial Intelligence based disease diagnosis model.
 
 | Dataset Name | Total Images |
