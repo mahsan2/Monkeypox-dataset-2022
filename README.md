@@ -10,8 +10,6 @@ During the Onset of Monkeypox disease our aim is to develop a image-based datase
 |Monkeypox_augmented | 587 |
 |Normal | 54|
 |Normal_augmented | 552|
-| Chickenpox    |  47         |
-| Chickenpox_augmented | 329  |
 | Measles       |  17 |
 | Measles_augmented | 286 |
 |Total | 1915|
