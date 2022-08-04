@@ -14,7 +14,7 @@ During the Onset of Monkeypox disease our aim is to develop a image-based datase
 | Measles_augmented | 286 |
 |Total | 1915|
 
-<h2> Data folder such as Chickenpox_gray, Monekypox_gray contains gray image of the original images which might help to reduce the time computation during the training.</h2>
+<h2> Data folder such as Monekypox_gray contains gray image of the original images which might help to reduce the time computation during the training.</h2>
 
 
 <h3> If you are using this dataset for the experiment then please cite the following paper </h3>
