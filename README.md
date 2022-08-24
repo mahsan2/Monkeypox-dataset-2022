@@ -4,6 +4,9 @@
 
 <h1>"Monkeypox_08_15_22"  is the code file. This is only for educational purpose. The result and any findings should not be used for any clinical analysis. More ethical analysis, proper justification, more authentic dataset and expert opinion can help to create more relaiable machine learning model.</h1>
 
+<h1>There were no authentic chickenpox dataset. We have uploaded a small chickenpox dataset which is collected from Centers for Disease Control and Prevention, Here:https://www.cdc.gov/chickenpox/about/photos.html </h1>
+<h1>The dataset is not sufficient and should not be used for any clinical purpose. However, to experiment and develop some machine learning or deep learning algorithm such dataset can work as a toy set</h1>
+
 During the Onset of Monkeypox disease our aim is to develop a image-based dataset that will assist to develop Artificial Intelligence based disease diagnosis model.
 
 | Dataset Name | Total Images |
