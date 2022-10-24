@@ -1,11 +1,11 @@
 # Monkeypox-dataset-2022
 
-<h1>The dataset is collected from google as a free source. However, it should not be used for commercial purposes as we do not hold any rights. There is a higher chance that some of that data is not related to the recent outbreak of monkeypox or chickenpox disease. The dataset was not collected from any authentic hospital or real-world patients. Therefore, the machine learning model developed from this dataset should not be used to evaluate any clinical diagnosis. Also, the dataset is not approved by any ethical committee. Therefore, it should not be used for any real-world applications.</h1>
+<h1>The dataset is collected from google as an open source. However, it should not be used for commercial purposes as we do not hold any rights. There is a higher chance that some of that data is not related to the very recent outbreak of monkeypox or chickenpox disease. Therefore, the machine learning model developed from this dataset should not be used to evaluate any real world patient diagnosis. Also, the dataset is not approved by any ethical committee. Therefore, it should not be used to deploy in actual patient diagnosis.</h1>
 
 <h1>"Monkeypox_08_15_22"  is the code file. This is only for educational purpose. The result and any findings should not be used for any clinical analysis. More ethical analysis, proper justification, more authentic dataset and expert opinion can help to create more relaiable machine learning model.</h1>
 
 <h1>There were no authentic chickenpox dataset. We have uploaded a small chickenpox dataset which is collected from Centers for Disease Control and Prevention, Here:https://www.cdc.gov/chickenpox/about/photos.html </h1>
-<h1>The dataset is not sufficient and should not be used for any clinical purpose. However, to experiment and develop some machine learning or deep learning algorithm such dataset can work as a toy set</h1>
+<h1>The dataset is not sufficient and should not be used for any clinical diagnosis.</h1>
 
 During the Onset of Monkeypox disease our aim is to develop a image-based dataset that will assist to develop Artificial Intelligence based disease diagnosis model.
 
